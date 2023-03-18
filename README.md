@@ -1,19 +1,19 @@
 ### Hi there 👋
 
 <picture>
-  <img align="left" width="420"  src="/general.svg" alt="Metrics">
+  <img align="left" width="400"  src="./img/general.svg" alt="general">
 </picture>
 
 <picture>
-  <img width="420"  src="/habits.svg" alt="Metrics">
+  <img width="400"  src="./img/habits.svg" alt="habits">
 </picture>
 
 <picture>
-  <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=AdamEECS&show_icons=true&hide=issues&count_private=true" alt="stats">
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=AdamEECS&show_icons=true&hide=issues&count_private=true" alt="stats">
 </picture>
 
 <picture>
-  <img width="420"  src="/achievements-compact.svg" alt="Metrics">
+  <img width="400"  src="./img/achievements-compact.svg" alt="achievements-compact">
 </picture>
 
 <!--
