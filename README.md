@@ -1,11 +1,20 @@
 ### Hi there 👋
 
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img align="left" width="420"  src="/general.svg" alt="Metrics">
 </picture>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamEECS&show_icons=true&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <img width="420"  src="/habits.svg" alt="Metrics">
+</picture>
 
+<picture>
+  <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=AdamEECS&show_icons=true&hide=issues&count_private=true" alt="stats">
+</picture>
+
+<picture>
+  <img width="420"  src="/achievements-compact.svg" alt="Metrics">
+</picture>
 
 <!--
 **AdamEECS/AdamEECS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
