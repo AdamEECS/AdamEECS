@@ -13,7 +13,7 @@
 </picture>
 
 <picture>
-  <img width="400"  src="./img/achievements-compact.svg" alt="achievements-compact">
+  <img width="400"  src="./img/achievements-compact-bak.svg" alt="achievements-compact">
 </picture>
 
 <!--
