@@ -9,7 +9,8 @@
 </picture>
 
 <picture>
-  <img align="left" width="400" src="https://github-readme-stats-adam.vercel.app/api?username=adameecs&show_icons=true&count_private=true&include_all_commits=true" alt="stats">
+<!--   <img align="left" width="400" src="https://github-readme-stats-adam.vercel.app/api?username=adameecs&show_icons=true&count_private=true&include_all_commits=true" alt="stats"> -->
+  <img align="left" width="400" src="./img/stats-cache.svg" alt="stats">
 </picture>
 
 <picture>
