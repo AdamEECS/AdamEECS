@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: general
-        uses: AdamEECS/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: img/general.svg
           token: ${{ secrets.METRICS_TOKEN }}
