@@ -29,7 +29,7 @@ jobs:
           plugin_isocalendar_duration: half-year
           
       - name: habits
-        uses: AdamEECS/metrics@master
+        uses: lowlighter/metrics@master
         with:
           filename: img/habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -65,7 +65,7 @@ jobs:
           plugin_languages_threshold: 0%
           
       - name: achievements
-        uses: AdamEECS/metrics@master
+        uses: lowlighter/metrics@master
         with:
           filename: img/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -78,7 +78,7 @@ jobs:
           plugin_achievements_threshold: B
           
       - name: achievements-compact
-        uses: AdamEECS/metrics@master
+        uses: lowlighter/metrics@master
         with:
           filename: img/achievements-compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
