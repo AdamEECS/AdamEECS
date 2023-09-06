@@ -29,7 +29,7 @@ jobs:
           plugin_isocalendar_duration: half-year
           
       - name: habits
-        uses: AdamEECS/metrics@master
+        uses: AdamEECS/metrics@latest
         with:
           filename: img/habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
