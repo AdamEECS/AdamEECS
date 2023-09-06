@@ -13,7 +13,7 @@ jobs:
       contents: write
     steps:
       - name: general
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           filename: img/general.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -29,7 +29,7 @@ jobs:
           plugin_isocalendar_duration: half-year
           
       - name: habits
-        uses: AdamEECS/metrics@latest
+        uses: AdamEECS/metrics@master
         with:
           filename: img/habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
